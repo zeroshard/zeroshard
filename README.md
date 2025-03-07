@@ -10,7 +10,7 @@ Windows | Linux (I use Arch btw) | MacOS | AWS | Azure | Python | SQL | Ansible 
 Bash | PowerShell | Docker | JetBrains TeamCity | NeoVim Enjoyer
 
 ### Contact Me:
-- Website: <a href="https://zeroshard.com/" target="_blank">
+- Website: <a href="https://zeroshard.com/">
 - Email: zeroshard@proton.me
 
 For more secure methods use my GPG key.
