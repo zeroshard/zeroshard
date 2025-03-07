@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Tech Enthusiast | Problem Solver
-I'm a hobbyist that enjoys solving (mostly creating) complex engineering problems
+I'm a hobbyist that enjoys solving (mostly creating) complex engineering problems.
 
 ---------------------------------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ Bash | PowerShell | Docker | JetBrains TeamCity | NeoVim Enjoyer
 
 ### Contact Me:
 - Website: zeroshard.com
-- Email zeroshard@proton.me
+- Email: zeroshard@proton.me
 
-for more secure methods use my GPG key
+For more secure methods use my GPG key.
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
