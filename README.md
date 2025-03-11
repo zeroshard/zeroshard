@@ -5,9 +5,12 @@ I'm a hobbyist that enjoys solving (mostly creating) complex engineering problem
 
 ---------------------------------------------------------------------------------------------
 
+I created this github as a way to track my progress as I learn to program.
+
+---------------------------------------------------------------------------------------------
+
 ### Tech Stack & Skills:
-Windows | Linux (I use Arch btw) | MacOS | AWS | Azure | Python | SQL | Ansible |
-Bash | PowerShell | Docker | JetBrains TeamCity | NeoVim Enjoyer
+Windows | Linux | MacOS | AWS | Bash | PowerShell | Docker | NeoVim Enjoyer
 
 ### Contact Me:
 - Website: <a href="https://zeroshard.com/home">zeroshard.com</a>
